@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 sajfhkdbhvbghskg
+=======
+sfhbegfiyegbigyr
+>>>>>>> master

@@ -1,7 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 jhgkbsdvksbgjshguohgsu
 =======
 abdhgafhabvbkhvbd
 dvndbsskvhvb
 >>>>>>> 57170a7 (14th commit)
+=======
+abdhgafhabvbkhvbd
+dvndbsskvhvb
+>>>>>>> master
