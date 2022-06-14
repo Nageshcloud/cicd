@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 
 jhgkbsdvksbgjshguohgsu
+=======
+abdhgafhabvbkhvbd
+dvndbsskvhvb
+>>>>>>> 57170a7 (14th commit)
