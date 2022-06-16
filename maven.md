@@ -1,3 +1,7 @@
 sfhbegfiyegbigyr
+<<<<<<< HEAD
 nnvjkhfguhrgurvnj
 kegkjggnjngjhguhngh
+=======
+jfjfiejijijvfnjfhjhfdjghdu
+>>>>>>> a26a26b4a897c773fab8547f541e33c15841b2b7
